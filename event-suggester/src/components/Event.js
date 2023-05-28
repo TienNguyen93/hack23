@@ -9,9 +9,6 @@ const Event = (props) => {
         <h3>{props.borough}</h3>
         <h3>{props.organizer}</h3>
       </div>
-      <div>
-        image here
-      </div>
     </div>
   )
 }
