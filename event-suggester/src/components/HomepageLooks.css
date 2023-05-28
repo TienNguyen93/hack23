@@ -1,0 +1,20 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     margin-top: 7em; 
+    margin-bottom: .75em; 
+    color:blueviolet;
+    text-align: center;
+}
+.home{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+}
+
+input{
+    background-color: transparent;
+    border:none;
+    font-size: 1.25rem;
+    margin-left: 5px;
+}
