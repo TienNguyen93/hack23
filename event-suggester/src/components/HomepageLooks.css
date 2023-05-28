@@ -5,3 +5,15 @@ h1{
     color:blueviolet;
     text-align: center;
 }
+.home{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+
+}
+
+input{
+    background-color: transparent;
+    border:none;
+    font-size: 1.25rem;
+    margin-left: 5px;
+}

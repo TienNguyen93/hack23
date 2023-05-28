@@ -5,18 +5,15 @@ import "./HomepageLooks.css";
 const Homepage = () => {
   return (
     <div className="home">
-<div className="title">
-      
       <h1>LinkCity</h1>
-<AiOutlineSearch />
-<input 
-placeholder ="Enter your search..."
-/>
-</div>
+      <AiOutlineSearch id="icon" />
+      <input placeholder="Enter your search..." />
+      <div>SearchResults</div>
+
     </div>
-    
+
   )
 }
-
+/*shift option f to reformat */
 
 export default Homepage
